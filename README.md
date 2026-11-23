@@ -51,3 +51,7 @@ Later parts live in separate repositories, linked below. Some of those repositor
 * **Full-stack:** Next.js
 * **Data:** MongoDB, PostgreSQL
 * **Tooling:** TypeScript, esbuild, Docker, CI/CD
+
+## Certificate
+
+![Part 0-5 certificate](certificate-fullstack.png)
